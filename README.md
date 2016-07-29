@@ -1,1 +1,1 @@
-# othello-py
+# othello
